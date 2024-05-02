@@ -29,7 +29,7 @@ const App = () => {
   }
 
   const maxVotesIndex = votes.indexOf(Math.max(...votes));
-
+  
 
   return (
     <div>
